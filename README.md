@@ -2,8 +2,6 @@
 
 A full-stack collaborative note-taking application with real-time editing, markdown preview, and mindmap visualization. Built with Next.js, Express, Socket.IO, PostgreSQL, and Redis.
 
-![Realtime Notes Demo](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Realtime+Notes+Demo)
-
 ## ✨ Features
 
 ### 🔐 Authentication
@@ -294,7 +292,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/your-repo/issues) page
+1. Check the [Issues](https://github.com/Vikhram-S/MindSync/issues) page
 2. Create a new issue with detailed information
 3. Join our community discussions
 
@@ -302,4 +300,4 @@ If you encounter any issues or have questions:
 
 **Happy Note-Taking! 🎉**
 
-Built with ❤️ using modern web technologies for the best collaborative experience.
+Built with ❤️ by Vikhram S
