@@ -1,4 +1,4 @@
-# Realtime Notes 🚀
+# MindSync-Realtime Notes 🚀
 
 A full-stack collaborative note-taking application with real-time editing, markdown preview, and mindmap visualization. Built with Next.js, Express, Socket.IO, PostgreSQL, and Redis.
 
